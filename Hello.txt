@@ -1,0 +1,4 @@
+Padmahemalatha Vaddi
+BSc Artifical Intelligence
+237104079
+Learning About GitHub:GitHub is a web-based platform designed for version control and collaboration, primarily for software development projects. It is built upon Git, which is a distributed version control system. 
