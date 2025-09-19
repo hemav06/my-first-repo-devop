@@ -1,8 +1,7 @@
 Padmahemalatha Vaddi
 BSc Artifical Intelligence
 237104079
-
-Learning About GitHub:GitHub is a web-based platform designed for version control and collaboration, primarily for software development projects. It is built upon Git, which is a distributed version control system. 
-Key aspects of GitHub:
-Repository Hosting: GitHub provides cloud-based hosting for Git repositories, enabling users to store their project code and files online.
-Version Control: It utilizes Git to track and manage changes made to files over time, allowing users to revert to previous versions, compare changes, and understand the history of a project.
+Subject
+1.English 
+2.Telugu
+3.Maths
